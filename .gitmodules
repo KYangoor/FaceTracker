@@ -1,0 +1,4 @@
+
+[submodule "modules/yolo"]
+	path = modules/yolo
+	url = git@github.com:ultralytics/yolov5.git
